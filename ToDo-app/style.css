@@ -1,0 +1,78 @@
+
+
+
+#heading{
+  font-size: 43px;
+  font-family: ui-sans-serif;
+
+  padding-left: 42%;
+}
+
+
+.container{
+  padding-left: 91px;
+  padding-top: 12px;
+  margin-left: 28%;
+  
+  width: 50%;
+  height: 196px;
+
+}
+
+
+.inputbox{
+
+  height: 25px;
+  width: 183px;
+  margin-right: 12px;
+  border-radius: 6px;
+
+}
+
+
+ #inputdate{
+  margin-right: 12px;
+  height: 25px;
+  border-radius: 6px;
+}
+
+.todoContainer{
+   display: grid;
+   grid-template-columns: 200px  150px 100px;
+   padding-top: 12px;
+  row-gap:  12px;
+  column-gap:  1px;
+ 
+}
+
+
+
+#btnid{
+
+ 
+  margin-bottom: 12px;
+  height: 34px;
+  margin-left: 19px;
+  width: 100px;
+background-color:  rgb(96, 230, 96);
+  border-radius:  6px;
+ 
+}
+
+.createbtn{
+
+  border-radius:  6px;
+  height: 34px;
+ background-color:rgb(235, 63, 63);
+}
+
+
+#createitem{
+  padding-top: 12px;
+  padding-left: 37px;
+}
+
+#createdate{
+  padding-top: 12px;
+  padding-left: 14px;
+}
