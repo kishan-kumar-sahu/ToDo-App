@@ -28,4 +28,10 @@ A simple and responsive Todo App built using HTML, CSS, and JavaScript.
 6. Tasks remain saved even after refreshing the page.
 
 ## Project Structure
+Todo-App/
+│
+├── index.html
+├── style.css
+├── script.js
+└── README.md
 
